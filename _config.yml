@@ -25,7 +25,7 @@ title: The Changing Representations of the Past at Fort George National Historic
 tagline: A Public History Podcast
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This website is for The Changing Representations of the Past at Fort George National Historic Site Podcast by Ryan Passerino and images to go with it. The podcast is not publicly available as per the interviewee's request, but you can go to {% include feature/button.html text='Here' link='https://forms.gle/UnijpR2NWSk9BHMd6' color='success' %} to request permission to listen to it."
+description: "This website is for The Changing Representations of the Past at Fort George National Historic Site Podcast by Ryan Passerino and images to go with it. The podcast is not publicly available as per the interviewee's request, but you can click the button below to request permission to listen to it."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Ryan Passerino
 
