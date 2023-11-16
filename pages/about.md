@@ -10,8 +10,8 @@ credits: true
 
 {% include feature/jumbotron.html objectid="fortgeorgepodcast001" %}
 
-{% include feature/nav-menu.html sections="About%}
-" 
+{% include feature/nav-menu.html sections="About" %}
+
 ## About 
 This website is for The Changing Representations of the Past at Fort George National Historic Site Podcast by Ryan Passerino and images to go with it. The podcast is not publicly available as per the interviewee's request, but you can click the button below to request permission to listen to it.
 
