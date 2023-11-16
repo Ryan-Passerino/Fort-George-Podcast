@@ -8,10 +8,10 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="fortgeorgepodcast001" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
+{% include feature/nav-menu.html sections="About%}
+" 
 ## About 
 This website is for The Changing Representations of the Past at Fort George National Historic Site Podcast by Ryan Passerino and images to go with it. The podcast is not publicly available as per the interviewee's request, but you can click the button below to request permission to listen to it.
 
