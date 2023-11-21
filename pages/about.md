@@ -12,22 +12,22 @@ credits: true
 
 {% include feature/nav-menu.html sections="About" %}
 
-## The Changing Representations of the Past at Fort George National Heritage Site
+# The Changing Representations of the Past at Fort George National Heritage Site
 By Ryan Passerino
 
-# Description:
+## Description:
 Want to know how an old military fort from the 1800s can be converted into a popular tourist attraction?
 
 Then join me as I give a brief history of Fort George National Heritage Site and how it has changed over time. I go over the site's initial 150-year transformation before examining how it continues to evolve over time with special guest Dan Laroche, Fort George's Site Supervisor.
 
-# Guest: 
+## Guest: 
 Dan Laroche - Site Supervisor, Fort George 
 
-# Acknowledgments:
-I would like to thank Dan Laroche for agreeing to be a part of this podcast.
+## Acknowledgments:
+I would like to thank Dan Laroche for agreeing to be a part of this podcast. <br>
 I would also like to thank Professor Jennifer Bonnell, Ted Belke, Anna St. Onge, and Kris Joseph for help with learning the skills and tools necessary to create this podcast.
 
-# References:
+## References:
 Primary Sources: 
 "Residents Cool to Plan: 86,000 Gallons a Day for Fort George Cooler." The Globe and Mail (1936-), Jul 07, 1976. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/historical-newspapers/residents-cool-plan/docview/1239385564/se-2.
 "SEA WALL AT NIAGARA TO BE PROCEEDED WITH: Parks Commission Now to Control Forts George and Mississauga." The Globe (1844-1936), Dec 07, 1934. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/historical-newspapers/sea-wall-at-niagara-be-proceeded-with/docview/1351487829/se-2.
@@ -41,7 +41,7 @@ Fort George, Butler's Barracks, Fort Mississauga, Navy Island, Queenston Heights
 Leskovec, Barbara. "The Many Faces of Fort George National Historic Site of Canada: Insights into a Historic Fort’s Transformation." Northeast Historical Archaeology 44, no. 1 (2015): 119-132. https://orb.binghamton.edu/neha/vol44/iss1/7
 
 
-# Music Credits (in order of appearance):
+## Music Credits (in order of appearance):
 "Fife Feature: Fishers Hornpipe Variation/Guilderoy/Red Haired Boy..." by The United States Army Old Guard Fife and Drum Corps
 "Three Little Drummers from the George Washington Show" by The United States Army Old Guard Fife and Drum Corps
 "Fife Feature: Lowlands Away/Trenton from the George Washington Show" by The United States Army Old Guard Fife and Drum Corps
