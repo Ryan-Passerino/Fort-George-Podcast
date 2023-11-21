@@ -62,6 +62,6 @@ Leskovec, Barbara. "The Many Faces of Fort George National Historic Site of Cana
 <br>
 <br>
 
-The podcast is not publicly available as per the interviewee's request, but you can click the button below to request permission to listen to it.
+This podcast is not publicly available as per the interviewee's request, but you can click the button below to request permission to listen to it.
 {% include feature/button.html text="Request Access to the Podcast" link="https://forms.gle/WXJBbfUPPwVoapDi6" color="success" %}
 
