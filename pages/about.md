@@ -22,15 +22,18 @@ Want to know how an old military fort from the 1800s can be converted into a pop
 
 Then join me as I give a brief history of Fort George National Heritage Site and how it has changed over time. I go over the site's initial 150-year transformation before examining how it continues to evolve over time with special guest Dan Laroche, Fort George's Site Supervisor.
 <br>
+<br>
 
 ### Guest: 
 Dan Laroche - Site Supervisor, Fort George 
+<br>
 <br>
 
 ### Acknowledgments:
 I would like to thank Dan Laroche for agreeing to be a part of this podcast.
 
 I would also like to thank Professor Jennifer Bonnell, Ted Belke, Anna St. Onge, and Kris Joseph for help with learning the skills and tools necessary to create this podcast.
+<br>
 <br>
 
 ### References:
